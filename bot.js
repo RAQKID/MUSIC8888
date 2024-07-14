@@ -6,10 +6,10 @@ const { Classic } = require("musicard");
 const { prefix } = require('./config.json');
 const nodes = [
      {
-    host: "lavalinkv4.serenetia.com",
-    port: 443, 
-    password: "lavalinkv4", 
-     secure: true
+    host: "45.43.163.132",
+    port: 88, 
+    password: "stonemusicgay", 
+     secure: false
   },
 ];
 
